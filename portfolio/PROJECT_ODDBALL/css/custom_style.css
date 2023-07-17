@@ -1,0 +1,47 @@
+
+table, tr, td{
+    border-collapse: collapse;
+    padding-top: 30px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 30px;
+    border: 1px solid;
+}
+
+.green {
+    background-color: yellowgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: powderblue;
+}
+
+.pink {
+    background-color: pink
+}
+
+.grey {
+    background-color: grey;
+}
+
+.peach {
+    background-color: peachpuff;
+}
+
+.div {
+    display: flex;
+    gap: 4rem;
+    text-align: center;
+}
+
+#margin {
+    margin-top: 48px;
+}
+
+.bold {
+    font-weight: bold;
+}
